@@ -1,3 +1,7 @@
 body {
-  background:#08415D ;
+  background: #08415d;
+}
+
+.title {
+  color: goldenrod;
 }
